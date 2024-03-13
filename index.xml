@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Minjae Park Blog on Minjae Park blog</title>
+    <title>Study &amp; Explore NN</title>
     <link>https://tada0347.github.io/</link>
-    <description>Recent content in Minjae Park Blog on Minjae Park blog</description>
+    <description>Recent content on Study &amp; Explore NN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Mar 2024 10:58:08 -0400</lastBuildDate>
     <atom:link href="https://tada0347.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mamba 논문 리뷰</title>
+      <link>https://tada0347.github.io/post/mamba/</link>
+      <pubDate>Tue, 12 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://tada0347.github.io/post/mamba/</guid>
+      <description> @@ 현재 블로그 시험용으로 작성된 글입니다. 추후에 제대로 된 내용이 추가될 예정입니다. 감사합니다. @@&#xA;&amp;ldquo;Mamba&amp;rdquo;,&amp;ldquo;SSM&amp;rdquo;,&amp;ldquo;State Space Model&amp;rdquo;,&amp;ldquo;Transformer&amp;rdquo;,&amp;ldquo;LLM&amp;rdquo; </description>
+    </item>
     <item>
       <title>About</title>
       <link>https://tada0347.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tada0347.github.io/about/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+      <description>Minjae Park 🔍 Research Interests State-Space Model, Model compression(Pruning, Quantization)&#xA;🏫 Education Sogang University&#xA;(2020.03 ~ 2024.02) B.S in Electrical &amp;amp; Electronics Engineering Pohang University of Science and Technology (POSTECH)&#xA;(2024.03 ~ Present) M.S. &amp;amp; Ph.D candidate in Electrical &amp;amp; Electronics Engineering 🏢 Experience (2023.06 ~ 2023.12) Research Intern, Man Machine Interface Lab, Sogang University 📞 Contact mail : minjae0047@postech.ac.kr, mjae.park@gmail.com github : https://github.com/tada0347/ Social accounts : linkedin</description>
     </item>
   </channel>
 </rss>
